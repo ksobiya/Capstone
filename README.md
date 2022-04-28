@@ -1,7 +1,7 @@
 # Human Migration
 
-## PowerBI Dashboard
-Link:
+## Tableau Dashboard
+Link:https://public.tableau.com/views/HumanMigration_16511842170780/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Table of Contents
 * [PowerBI Dashboard](#powerbi-dashboard)
