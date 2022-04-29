@@ -4,7 +4,7 @@
 Link:https://public.tableau.com/views/HumanMigration_16511842170780/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Table of Contents
-* [PowerBI Dashboard](#powerbi-dashboard)
+* [Tableau Dashboard](#Tableau-dashboard)
 * [Motivation](#motivation)
 * [Questions](#questions)
 * [Normalizing the Data](#normaling-the-data)
@@ -61,4 +61,4 @@ https://en.wikipedia.org/wiki/Global_Peace_Index
 https://data.oecd.org/unemp/unemployment-rate.htm
 
 ## Conclusion
-The data analysis shows countries with most incoming immigrants are USA, UK, Saudi Arabia, Russia, Germany, Australia, France, Italy and Canada. It is given that theses countries have better opportunities for work, health and education that can drive people to move for better life for themselves and their loved ones. Countries where people are moving from include Mexico, South Sudan, India, Syria, Ukraine, China, Poland, Russia and Puerto Rico. My analysis shows some of these countries are ranked high in statistical risk assessment for mass killing however the correlation was not sufficient enough to claim that this could be the cause of migration. Most of the countries are developing countries and it could be concluded that violence, economic disturbance, and unemployment could also play a vital role in migration.
+The data analysis shows countries with most incoming immigrants are USA, UK, Saudi Arabia, Russia, Germany, Australia, France, Italy and Canada. It is given that theses countries have better opportunities for work, health and education that can drive people to move for better life for themselves and their loved ones. Countries where people are moving from include Mexico, India, Syria, Ukraine, China, Russia, Pakistan, Philippines, Afghanistan. My analysis shows some of these countries are ranked high in statistical risk assessment for mass killing however the correlation was not sufficient enough to claim that this could be the cause of migration. Most of the countries are developing countries and it could be concluded that violence, religious freedom, and unemployment could also play a vital role in migration.
