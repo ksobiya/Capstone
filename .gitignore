@@ -132,3 +132,5 @@ dmypy.json
 Data/
 data/
 extra/
+#tableau_data
+tabluea_data/
