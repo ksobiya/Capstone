@@ -1,7 +1,5 @@
 # Human Migration
 
-## Tableau Dashboard
-Link: https://public.tableau.com/views/HumanMigration_16511842170780/Story2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 
 
@@ -14,6 +12,9 @@ Link: https://public.tableau.com/views/HumanMigration_16511842170780/Story2?:lan
 * [Technologies Used](#technologies-used)
 * [Sources](#sources)
 * [Conclusion](#conclusion)
+
+## Tableau Dashboard
+Link: https://public.tableau.com/views/HumanMigration_16511842170780/Story2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 ## Motivation:
 Being an immigrant myself and having seen the trouble my family faced to migrate from my homeland for better life, I wanted to take this opportunity to do some research and find which countries most of the migrants are coming from and which countries they are going to. I decided to narrow down top 10 countries of origin and destination and research push and pull factors of migration.
