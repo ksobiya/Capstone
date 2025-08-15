@@ -10,7 +10,7 @@
 * [Normalizing the Data](#normaling-the-data)
 * [Problems and Hurdles](#problems-and-hurdles)
 * [Technologies Used](#technologies-used)
-* [Sources](#sources)
+* [Data Sources](#sources)
 * [Conclusion](#conclusion)
 
 ## Tableau Dashboard
